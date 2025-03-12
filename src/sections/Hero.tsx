@@ -74,7 +74,7 @@ export const HeroSection = () => {
         <div className='max-w-lg mx-auto'>
           <h1 className='font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide'>Liam Stiles</h1>
           <p className='mt-4 text-center text-white/60 md:text-lg'> 
-          I am full-stack developer based in San Francisco with a passion for buidling functional, high-performing web applications.
+          I am full-stack developer based in San Francisco with a passion for building functional, high-performing web applications.
           </p>
         </div>
         <div className='flex flex-col md:flex-row justify-center items-center mt-8 gap-4 relative z-50'>
@@ -87,7 +87,7 @@ export const HeroSection = () => {
             <a href="#contact">
           <button className='inline-flex items-center gap-2 border border-whtie bg-white text-gray-900 h-12 px-6 rounded-xl transition-all duration-300 ease-in-out transform hover:bg-white/70 hover:text-gray-900 hover:scale-105'>
              <span>👋</span>
-             <span className='font-semibold '>Lets Connect</span>
+             <span className='font-semibold '>Let's Connect</span>
            </button>
            </a>
          </div>
