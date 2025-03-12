@@ -9,10 +9,10 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <HeroSection id="home" />
-      <ProjectsSection id="projects" />
-      <AboutSection id="about" />
-      <ContactSection id="contact" />
+      <HeroSection />
+      <ProjectsSection  />
+      <AboutSection />
+      <ContactSection />
       <Footer />
     </div>
   );
