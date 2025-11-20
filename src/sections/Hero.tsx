@@ -85,7 +85,7 @@ export const HeroSection = () => {
            </button>
           </a>
             <a href="#contact">
-          <button className='inline-flex items-center gap-2 border border-whtie bg-white text-gray-900 h-12 px-6 rounded-xl transition-all duration-300 ease-in-out transform hover:bg-white/70 hover:text-gray-900 hover:scale-105'>
+          <button className='inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl transition-all duration-300 ease-in-out transform hover:bg-white/70 hover:text-gray-900 hover:scale-105'>
              <span>👋</span>
              <span className='font-semibold '>Let&apos;s Connect</span>
            </button>

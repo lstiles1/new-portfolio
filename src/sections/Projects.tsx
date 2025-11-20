@@ -26,7 +26,7 @@ const portfolioProjects = [
       { title: "Streamlined admin management" },
       { title: "Simplified inventory tracking" },
     ],
-    link: "https://main.d1s8h38tag6x10.amplifyapp.com",
+    link: "https://stocked-inventory.vercel.app ",
     image: lightSaasLandingPage,
   },
   {
