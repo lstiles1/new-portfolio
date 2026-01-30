@@ -137,7 +137,7 @@ export const ProjectsSection = () => {
         animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
         transition={{ duration: 0.6 }}
       >
-        <SectionHeader eyebrow="Real-world Results" title="Featured Projects" />
+        <SectionHeader eyebrow="Real-world Results" title="Featured Projects" description="" />
       </motion.div>
         <div className="flex flex-col gap-12 md:gap-16 lg:gap-20 mt-4 md:mt-6 lg:mt-8">
           {portfolioProjects.map((project, projectIndex) => (
